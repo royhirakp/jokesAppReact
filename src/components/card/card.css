@@ -1,0 +1,17 @@
+.containerBookmark {
+  width: 200px;
+  border: 1px solid;
+  border-radius: 6px;
+  height: auto;
+  position: absolute;
+  top: 20px;
+  background-color: antiquewhite;
+  /* background-color: rgb(222, 236, 208); */
+  left: 500px;
+}
+
+footer {
+  background-color: rgb(215, 204, 192);
+  border-radius: 5px;
+  padding-bottom: 10px;
+}
